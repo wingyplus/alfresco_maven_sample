@@ -3,11 +3,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.wingyplus</groupId>
-	<artifactId>content-expire-action</artifactId>
+	<artifactId>alfresco-maven-sample</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>content-expire-action AMP project</name>
 	<packaging>amp</packaging>
-	<description>Manages the lifecycle of the content-expire-action AMP (Alfresco Module Package)</description>
+	<description>Alfresco project using Maven</description>
 
 	<parent>
 		<groupId>org.alfresco.maven</groupId>
